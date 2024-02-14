@@ -1,2 +1,5 @@
-# DataScience-Portfolio
-Every Project I did in Data Science
+# DATA SCIENTIST
+###EDUCATION
+BS SOFTWARE
+###WORK EXPERIENCE
+###POJECTS
